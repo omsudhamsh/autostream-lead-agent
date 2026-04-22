@@ -34,7 +34,7 @@ LangGraph allows for explicit control over these transitions, ensuring predictab
 
 Clone the repository and set up your virtual environment:
 
-    git clone <your-repo-link>
+    git clone https://github.com/omsudhamsh/autostream-lead-agent.git
     cd social-to-lead-agent
 
     python -m venv venv
@@ -45,6 +45,8 @@ Clone the repository and set up your virtual environment:
 Create a `.env` file in the root directory:
 
     GOOGLE_API_KEY=your_api_key_here
+    OR
+    GROQ_API_KEY=your_api_key_here
 
 Run the project:
 
