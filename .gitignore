@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Local data / Vectorstore
+faiss_index/
+data/*.json
+!data/knowledge.json
+
+# IDEs
+.vscode/
+.idea/
