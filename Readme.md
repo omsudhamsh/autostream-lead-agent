@@ -52,7 +52,7 @@ Run the project:
 
 ## Sample Flow
 
-User: Hi
+User: Hi \n
 Agent: Hello!
 
 User: Tell me about pricing
