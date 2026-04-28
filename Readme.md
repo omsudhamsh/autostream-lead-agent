@@ -86,7 +86,7 @@ To deploy this agent on WhatsApp for real-time lead capture:
 
 ## Demo
 
-Demo Video: (Open in Drive)[https://drive.google.com/file/d/17Ij0tROqetg-uLTtwxzl6AhP4mKsrJ0C/view]
+Demo Video: [Open in Drive](https://drive.google.com/file/d/17Ij0tROqetg-uLTtwxzl6AhP4mKsrJ0C/view)
 
 ## Notes
 
